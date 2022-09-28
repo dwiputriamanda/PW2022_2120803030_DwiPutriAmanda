@@ -1,0 +1,22 @@
+body{
+  font-family: Arial, verdana, sans-serif
+}
+h1{
+  text-align: center;
+  color: rgb(72, 233, 251);
+  font-variant: small-caps;
+  font-size: 50px;
+}
+p{
+  color: rgb(33, 208, 33);
+  line-height: 1.6em;
+  font-family: 'Times New Roman', serif;
+  font-size: 20px;
+  text-align: justify;
+  text-indent: 30px;
+  text-decoration: line-through; 
+  text-transform: capitalize;
+  letter-spacing: normal;
+  word-spacing: normal;
+  /* Komentar */
+}

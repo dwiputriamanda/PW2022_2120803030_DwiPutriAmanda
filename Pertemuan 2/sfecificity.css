@@ -1,0 +1,20 @@
+#p1{
+  color: rgb(210, 133, 39);
+}
+
+p{
+  color: crimson;
+}
+
+p{
+  color: rgb(109, 186, 32);
+}
+
+ul#sarapan li {
+  color:green;
+
+}
+
+ul#sarapan li.favorit{
+  color:red;
+}

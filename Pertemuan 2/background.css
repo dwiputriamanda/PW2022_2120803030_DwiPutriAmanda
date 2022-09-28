@@ -1,0 +1,10 @@
+body{
+  background-image: url(Gambar.jpeg);
+  background-repeat: no-repeat;
+  background-size: 70em;
+  background-position: top center;
+}
+p{
+  text-align: center;
+  font-size: 30px;
+}
